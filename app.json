@@ -1,0 +1,13 @@
+{
+    "appKey": "G0BFizaKT0PFyirCeOoPnrkdmRMLQXg8",
+    "appSecret": "orLImoVhBqQ309pCz7826E0IvxqZBjH1",
+    "projectId": "c74ffdd7ce0a6234cd1035d3ba8a2ab6",
+    "id": 432,
+    "name": "nuxt-test",
+    "framework": "vue",
+    "platform": "pc",
+    "description": "nuxt-test",
+    "alias": {},
+    "pages": [],
+    "dependencies": []
+    }
