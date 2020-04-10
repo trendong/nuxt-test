@@ -20,6 +20,9 @@ module.exports = {
   /*
   ** Build configuration
   */
+  
+  buildDir: "dist",
+ 
   build: {
     publicPath: process.env.PUBLIC_PATH || '/_nuxt/',
     /*
